@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Monster Wiki Legends</string>
+    <string name="buttonCreationTxt">Création</string>
+    <string name="buttonBestiaireTxt">Bestiaire</string>
+    <string name="buttonNx">Suivant</string>
+    <string name="buttonPr">Précédent</string>
+</resources>
